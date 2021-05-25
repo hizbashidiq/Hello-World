@@ -1,2 +1,2 @@
 # Hello-World
-Just a little thing about coding
+Just a little thing
